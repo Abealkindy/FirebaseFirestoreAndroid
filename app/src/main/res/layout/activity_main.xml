@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorPrimary"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:padding="@dimen/margin_top_button"
+    tools:context="com.rosinante24.firebasefirestoreandroid.MainActivity">
+
+
+    <ImageView
+        android:layout_width="@dimen/logo_w_h"
+        android:layout_height="@dimen/logo_w_h"
+        android:layout_marginBottom="@dimen/margin_edit_text"
+        android:layout_marginTop="@dimen/margin_edit_text"
+        android:src="@drawable/firebaseicon" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/margin_edit_text"
+        android:layout_marginTop="10dp"
+        android:gravity="center"
+        android:text="@string/title"
+        android:textColor="@android:color/white"
+        android:textSize="@dimen/sizetitle" />
+
+    <EditText
+        android:id="@+id/edit_text_satu"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/height_edit_text"
+        android:layout_marginBottom="@dimen/margin_edit_text"
+        android:layout_marginTop="@dimen/margin_edit_text"
+        android:background="@drawable/backgroundedittext"
+        android:textAlignment="center" />
+
+    <EditText
+        android:id="@+id/edit_text_dua"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/height_edit_text"
+        android:layout_marginBottom="@dimen/margin_edit_text"
+        android:layout_marginTop="@dimen/margin_edit_text"
+        android:background="@drawable/backgroundedittext"
+        android:textAlignment="center" />
+
+    <Button
+        android:id="@+id/button_save"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/margin_edit_text"
+        android:layout_marginTop="@dimen/margin_edit_text"
+        android:background="@drawable/groundbutton"
+        android:text="@string/textbutton"
+        android:textColor="@android:color/white" />
+
+    <TextView
+        android:id="@+id/text_result"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/margin_edit_text"
+        android:gravity="center"
+        android:textColor="@android:color/white"
+        android:textSize="@dimen/text_title_forgot_password" />
+
+
+</LinearLayout>

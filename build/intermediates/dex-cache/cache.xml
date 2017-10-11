@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/Rosinante24/.android/build-cache/94fb7d5fb8d6201deeace17ba68a24fc58399935/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="73c80b05a390e8319d1ef7a236739cd610c8f774">
+        <dex dex="/Users/Rosinante24/Downloads/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3ff9b1f14a6dbeaffaa7cb3cd81937355d26367b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Rosinante24/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/20.0/89507701249388e1ed5ddcf8c41f4ce1be7831ef/guava-20.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="89507701249388e1ed5ddcf8c41f4ce1be7831ef">
+        <dex dex="/Users/Rosinante24/Downloads/app/build/intermediates/transforms/dex/debug/folders/1000/10/guava-20.0_cf149e933b5e90766934cce1cfb92bc13807e844/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Rosinante24/.android/build-cache/4d3b428ff200033b755d313e1d8b94049d44d0b1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8040d53ecd4bd895360eafdc25e1c1cc9479e6aa">
+        <dex dex="/Users/Rosinante24/Downloads/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a57fe75d30eb7c9925eeb573f7b969e15bb4bff5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Rosinante24/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/Users/Rosinante24/Downloads/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.6.0_c25ec2d01504f870a01f038ed0a784d23bc8ae8b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Rosinante24/.android/build-cache/fcdee38e7c92345ba69eef6683882825f650f546/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="5f519b8c692038a47ee404b6ea6b847f6402000c">
+        <dex dex="/Users/Rosinante24/Downloads/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_83962764002f35b6ac607cc40a0d993495a1786a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Rosinante24/.android/build-cache/5d6c7073e3ffd8e4f823364f30310d467b8bd351/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6e6b94b72d7912a627fb1629c310b2bca9261f06">
+        <dex dex="/Users/Rosinante24/Downloads/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6609504e2ea61e67916e28a9f4b3e5d210df19af/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Rosinante24/.android/build-cache/2cbcef958e204277db932aaaeecc085a2ce50d8d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c2cadea4d8a1a5b5c4e5f0dc99a99a43774f5e6e">
+        <dex dex="/Users/Rosinante24/Downloads/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8ee57e6284125025973f4b38ec4bcc611dc61e5b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Rosinante24/.android/build-cache/2464f311ffdf4c57ea2bdcc0fd8cc42363f13f0c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="643a2fd3bd06c44be5d20efc0ba4ca02036d2c8a">
+        <dex dex="/Users/Rosinante24/Downloads/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cbffc8de8ac9f71d1ece49f155b1dcb682345144/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Rosinante24/.android/build-cache/83cfa71b4fd0aa3c908290ac12f9fe61078eedc4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="20d6aa9a18ea9833cd2bee95dff7cd303cdb80e4">
+        <dex dex="/Users/Rosinante24/Downloads/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5cf44daf1438aea9f1d66c8ee4c18d8b285de351/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Rosinante24/Downloads/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/Rosinante24/Downloads/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_18fcd7a9b09fb2026133b05f4aed3bdc648a9a64/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Rosinante24/Downloads/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="639dec1abc5ef1b58ba7e950bf325e302bb656c2">
+        <dex dex="/Users/Rosinante24/Downloads/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_83150add509462fd233114b85e3f0f5d64eb2837/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Rosinante24/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.7.2/20f6463eb19ac61960c5d91a094c2f4f0727dc2e/okhttp-2.7.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="20f6463eb19ac61960c5d91a094c2f4f0727dc2e">
+        <dex dex="/Users/Rosinante24/Downloads/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-2.7.2_29c208eb69e074bd3308fa9867cf8711d4b38a9a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Rosinante24/.android/build-cache/0f2e4d63feb7afb72e00105f3942324ca5e97b3a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="bed98ea7af8c5c4202820875e856dd3eb296e22d">
+        <dex dex="/Users/Rosinante24/Downloads/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d250224a1f013d228eff571261194de9e18dc47a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Rosinante24/.android/build-cache/b6da480e75e9fa43b6808ef0bbb11ebbe0ba1c8f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="bc0d71e8828a145ca4aebde8f6897608070f8863">
+        <dex dex="/Users/Rosinante24/Downloads/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fe29f92d9e7aca438ed4bdcd8b6ba577f177a279/classes.dex" />
+    </item>
+
+</items>

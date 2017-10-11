@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Firebase Firestore Android</string>
+    <string name="TEXT_DUA">dua</string>
+    <string name="TEXT_SATU">satu</string>
+    <string name="textbutton">Save</string>
+    <string name="title">Log In</string>
+</resources>

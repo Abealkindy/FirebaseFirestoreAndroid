@@ -1,0 +1,215 @@
+{
+  "project_info": {
+    "project_number": "1092683998884",
+    "firebase_url": "https://belajar-firebase-eb5e4.firebaseio.com",
+    "project_id": "belajar-firebase-eb5e4",
+    "storage_bucket": "belajar-firebase-eb5e4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1092683998884:android:5696fc771483d846",
+        "android_client_info": {
+          "package_name": "com.abraham24.learnwithmrmursit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1092683998884-dt1ckvu20opfb83084msc4at6bjbu6ru.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.abraham24.learnwithmrmursit",
+            "certificate_hash": "be76529232bae72a82d1009c08ca966f8fb37ef1"
+          }
+        },
+        {
+          "client_id": "1092683998884-i13afv6ue6r30hbaid74dd4vu5cbui7r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgs_fZZPAw3M8GfRWhFHeYsb0F1IyHqjM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1092683998884-jno9blmltnba3p426i2tr37630a519sh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.rosinante24.firebasechatflutter"
+              }
+            },
+            {
+              "client_id": "1092683998884-i13afv6ue6r30hbaid74dd4vu5cbui7r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1092683998884:android:b5d75907de594a2d",
+        "android_client_info": {
+          "package_name": "com.google.firebase.codelab.friendlychat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1092683998884-k10d7op9ch85s2oqhd0f2ouq2divisjt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.google.firebase.codelab.friendlychat",
+            "certificate_hash": "be76529232bae72a82d1009c08ca966f8fb37ef1"
+          }
+        },
+        {
+          "client_id": "1092683998884-i13afv6ue6r30hbaid74dd4vu5cbui7r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgs_fZZPAw3M8GfRWhFHeYsb0F1IyHqjM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1092683998884-jno9blmltnba3p426i2tr37630a519sh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.rosinante24.firebasechatflutter"
+              }
+            },
+            {
+              "client_id": "1092683998884-i13afv6ue6r30hbaid74dd4vu5cbui7r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1092683998884:android:8fad9899bea20041",
+        "android_client_info": {
+          "package_name": "com.rosinante24.firebasechatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1092683998884-edv44ula5api2qtmt2tavlvh7m9cdggn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rosinante24.firebasechatapp",
+            "certificate_hash": "6f6ccc6e12a2f649aa967e933714fa9a65229167"
+          }
+        },
+        {
+          "client_id": "1092683998884-i13afv6ue6r30hbaid74dd4vu5cbui7r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgs_fZZPAw3M8GfRWhFHeYsb0F1IyHqjM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1092683998884-jno9blmltnba3p426i2tr37630a519sh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.rosinante24.firebasechatflutter"
+              }
+            },
+            {
+              "client_id": "1092683998884-i13afv6ue6r30hbaid74dd4vu5cbui7r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1092683998884:android:428c423c05286823",
+        "android_client_info": {
+          "package_name": "com.rosinante24.firebasefirestoreandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1092683998884-hontm5l34j3rhf4g1uemk2qsofteteht.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rosinante24.firebasefirestoreandroid",
+            "certificate_hash": "6f6ccc6e12a2f649aa967e933714fa9a65229167"
+          }
+        },
+        {
+          "client_id": "1092683998884-i13afv6ue6r30hbaid74dd4vu5cbui7r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgs_fZZPAw3M8GfRWhFHeYsb0F1IyHqjM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1092683998884-jno9blmltnba3p426i2tr37630a519sh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.rosinante24.firebasechatflutter"
+              }
+            },
+            {
+              "client_id": "1092683998884-i13afv6ue6r30hbaid74dd4vu5cbui7r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
